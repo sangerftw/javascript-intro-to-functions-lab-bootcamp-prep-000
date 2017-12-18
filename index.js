@@ -18,3 +18,6 @@ function sayHiToGrandma(string) {
   if(true) {string.toUpperCase}
   return ("YES INDEED!")
 }
+function sayHiToGrandma(string) {
+  if(true) {""
+}
