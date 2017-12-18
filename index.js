@@ -15,11 +15,3 @@ function sayHiToGrandma(string) {
   if(true) {string.toUpperCase}
   return "I can't hear you!"
 }
-function sayHiToGrandma(string) {
-  if(true) {string.toUpperCase}
-  return "YES INDEED!"
-}
-function sayHiToGrandma(string) {
-  if(true) {console.log("I love you, Grandma.")}
-  return "I love you, too."
-}
